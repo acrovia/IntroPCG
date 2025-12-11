@@ -1,0 +1,9 @@
+[31618:31618:1211/182423.227874:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31618:31618:1211/182423.309828:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31618:31618:1211/182424.580276:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
+[31618:31618:1211/182424.580294:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[31618:31618:1211/182425.160840:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
+[31618:31618:1211/182425.160855:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 2 time(s)
+[31618:31618:1211/182425.733361:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
+[31618:31618:1211/182425.733387:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 3 time(s)
+[31618:31618:1211/182426.279275:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 0 ms

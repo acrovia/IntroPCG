@@ -1,0 +1,137 @@
+[32039:32039:1211/182423.437285:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[32124:32124:1211/182424.668152:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[32130:32130:1211/182425.261733:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[32136:32136:1211/182425.738168:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32136:32136:1211/182425.738244:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32136:32136:1211/182425.738266:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32136:32136:1211/182425.738291:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32136:32136:1211/182425.738312:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32136:32136:1211/182425.738466:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32136:32136:1211/182425.738502:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32136:32136:1211/182425.738522:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32136:32136:1211/182425.738542:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32136:32136:1211/182425.738561:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32136:32136:1211/182425.739245:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32143:32143:1211/182425.746804:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32143:32143:1211/182425.746883:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32143:32143:1211/182425.746911:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32143:32143:1211/182425.746935:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32143:32143:1211/182425.746957:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32143:32143:1211/182425.747150:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32143:32143:1211/182425.747194:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32143:32143:1211/182425.747220:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32143:32143:1211/182425.747243:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32143:32143:1211/182425.747272:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32143:32143:1211/182425.748022:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32150:32150:1211/182425.755503:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32150:32150:1211/182425.755568:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32150:32150:1211/182425.755591:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32150:32150:1211/182425.755614:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32150:32150:1211/182425.755635:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32150:32150:1211/182425.755875:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32150:32150:1211/182425.755906:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32150:32150:1211/182425.755926:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32150:32150:1211/182425.755944:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32150:32150:1211/182425.755964:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32150:32150:1211/182425.756579:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32157:32157:1211/182425.763405:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32157:32157:1211/182425.763484:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32157:32157:1211/182425.763508:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32157:32157:1211/182425.763532:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32157:32157:1211/182425.763554:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32157:32157:1211/182425.763713:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32157:32157:1211/182425.763747:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32157:32157:1211/182425.763767:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32157:32157:1211/182425.763786:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32157:32157:1211/182425.763843:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32157:32157:1211/182425.764574:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32164:32164:1211/182425.771602:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32164:32164:1211/182425.771677:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32164:32164:1211/182425.771699:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32164:32164:1211/182425.771721:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32164:32164:1211/182425.771741:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32164:32164:1211/182425.771913:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32164:32164:1211/182425.771943:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32164:32164:1211/182425.771962:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32164:32164:1211/182425.771980:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32164:32164:1211/182425.771998:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32164:32164:1211/182425.772573:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32171:32171:1211/182425.780515:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32171:32171:1211/182425.780589:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32171:32171:1211/182425.780612:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32171:32171:1211/182425.780636:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32171:32171:1211/182425.780657:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32171:32171:1211/182425.780822:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32171:32171:1211/182425.780854:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32171:32171:1211/182425.780873:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32171:32171:1211/182425.780891:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32171:32171:1211/182425.780914:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32171:32171:1211/182425.781490:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32178:32178:1211/182425.787490:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32178:32178:1211/182425.787565:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32178:32178:1211/182425.787587:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32178:32178:1211/182425.787609:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32178:32178:1211/182425.787630:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32178:32178:1211/182425.787778:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32178:32178:1211/182425.787808:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32178:32178:1211/182425.787827:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32178:32178:1211/182425.787848:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32178:32178:1211/182425.787868:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32178:32178:1211/182425.788480:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32185:32185:1211/182425.796431:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32185:32185:1211/182425.796492:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32185:32185:1211/182425.796515:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32185:32185:1211/182425.796536:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32185:32185:1211/182425.796559:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32185:32185:1211/182425.796712:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32185:32185:1211/182425.796740:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32185:32185:1211/182425.796762:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32185:32185:1211/182425.796781:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32185:32185:1211/182425.796823:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32185:32185:1211/182425.797336:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32192:32192:1211/182425.804657:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32192:32192:1211/182425.804731:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32192:32192:1211/182425.804753:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32192:32192:1211/182425.804775:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32192:32192:1211/182425.804800:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32192:32192:1211/182425.804953:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32192:32192:1211/182425.804980:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32192:32192:1211/182425.804999:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32192:32192:1211/182425.805017:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32192:32192:1211/182425.805035:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32192:32192:1211/182425.805759:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32199:32199:1211/182425.813188:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32199:32199:1211/182425.813254:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32199:32199:1211/182425.813280:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32199:32199:1211/182425.813307:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32199:32199:1211/182425.813338:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32199:32199:1211/182425.813509:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32199:32199:1211/182425.813541:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32199:32199:1211/182425.813564:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32199:32199:1211/182425.813586:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32199:32199:1211/182425.813609:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32199:32199:1211/182425.814374:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32206:32206:1211/182425.821537:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32206:32206:1211/182425.821599:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32206:32206:1211/182425.821622:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32206:32206:1211/182425.821649:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32206:32206:1211/182425.821670:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32206:32206:1211/182425.821831:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32206:32206:1211/182425.821860:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32206:32206:1211/182425.821880:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32206:32206:1211/182425.821899:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32206:32206:1211/182425.821917:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32206:32206:1211/182425.822405:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32213:32213:1211/182425.830288:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32213:32213:1211/182425.830365:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32213:32213:1211/182425.830386:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32213:32213:1211/182425.830409:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32213:32213:1211/182425.830429:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32213:32213:1211/182425.830578:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32213:32213:1211/182425.830607:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[32213:32213:1211/182425.830626:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[32213:32213:1211/182425.830644:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[32213:32213:1211/182425.830666:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[32213:32213:1211/182425.831263:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[32220:32220:1211/182425.834602:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[32220:32220:1211/182426.270133:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
